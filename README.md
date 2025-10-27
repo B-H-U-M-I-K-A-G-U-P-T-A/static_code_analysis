@@ -13,8 +13,8 @@ A Python inventory management system with input validation, error handling, and 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/inventory-system.git
-cd inventory-system
+https://github.com/B-H-U-M-I-K-A-G-U-P-T-A/static_code_analysis.git
+cd inventory_system
 python inventory_system.py
 ```
 
